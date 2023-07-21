@@ -99,7 +99,7 @@ disable_cookie = true
 [Languages.zh-tw]
 title = "RustDesk文檔"
 weight = 3
-languageName = "繁體中文"
+languageName = "正體中文"
 landingPageName = "<i class='fas fa-home'></i> 首頁"
 
 [[menu.shortcuts]]
